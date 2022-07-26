@@ -18,7 +18,7 @@ $this->title = 'Busca CEP';
 
                     <br />
                     <p> Site desenvolvido por Rafael Kovalenkovas Hartel para o teste de programação. <br />
-                        Ao acessar a página de busca, inserir o número CEP do endereço desejado e o site faz uma busca pelo ViaCEP, retornando os dados do endereço informado.
+                        Ao acessar a página de busca, inserir o número CEP do endereço desejado, o site faz uma busca pelo ViaCEP, retornando os dados do endereço informado.
                     </p>
 
                     <br />
